@@ -13,8 +13,8 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Data sources**: Import data from two source systems (ERP AND CRM) Provided as CSV Files.
 - **Data Quality**: Cleanse and Resolve data quality issues prior to analysis.
 - **Integration**: Combine both sources into a single, user-frindly data model designed for analytical queries.
--**Scope**: Focus on the latest dataset only; Historization of data is not required.
--**Documentation**: Provide clear documenation of the data model to support both business stakeholders and analytical teams.
+- **Scope**: Focus on the latest dataset only; Historization of data is not required.
+- **Documentation**: Provide clear documenation of the data model to support both business stakeholders and analytical teams.
 
   ### BI: Analytics & Reporting (Data analytics)
 
