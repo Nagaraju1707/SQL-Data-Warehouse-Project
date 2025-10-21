@@ -51,7 +51,7 @@ IF OBJECT_ID('bronze.erp_loc_a1o1','U') IS NOT NULL
 
 CREATE TABLE bronze.erp_loc_a1o1  (
 	 cid NVARCHAR(50),
-	 cntry NVARCHAR(50),
+	 cntry NVARCHAR(50)
  );
  IF OBJECT_ID('bronze.erp_cust_az12','U') IS NOT NULL
     DROP TABLE bronze.erp_cust_az12;
